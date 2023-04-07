@@ -1,9 +1,9 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:projeto_dependencias/main.dart';
+import 'package:teste_mock/main.dart';
 import 'package:mockito/mockito.dart';
 import 'package:mockito/annotations.dart';
 import 'package:http/http.dart' as http;
-import 'fetch_album_teste.mocks.dart';
+import 'fetch_album_test.mocks.dart';
 
 @GenerateMocks([http.Client])
 void main() {

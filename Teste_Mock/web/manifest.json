@@ -1,6 +1,6 @@
 {
-    "name": "projeto_dependencias",
-    "short_name": "projeto_dependencias",
+    "name": "teste_mock",
+    "short_name": "teste_mock",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
